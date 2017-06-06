@@ -43,4 +43,9 @@ public class JDBCConnectionTest {
             Logger.getLogger(JDBCConnectionTest.class.getName()).log(Level.SEVERE, null, ex);
         }
      }
+     
+     @Test
+     public void test1(){
+         
+     }
 }
